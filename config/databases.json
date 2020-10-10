@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "development": {
     "database": "nodejs-starter-dev",
@@ -15,3 +16,22 @@
     "use_env_variable": "DATABASE_URL"
   }
 }
+=======
+{
+  "development": {
+    "database": "nodejs-starter-dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "database": "nodejs-starter-test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}
+>>>>>>> d0ddd9317cd99ea56f15f82b4ced42278d4d5b65
