@@ -1,6 +1,8 @@
-# Introduction
+# Bag Bot
 
-This is a hackathon boilerplate for new Node.js applications created by [Major League Hacking](https://github.com/mlh). It is for hackers looking to get started quickly on a new hackathon project using the Node.js environment.
+Description: Bag Bot is a friendly bot that gives passengers updates on their luggage. Bag Bot will update you on the status of your bag: where to pick it up, where last scanned;  and expected wait time for arrival. Choose to wait or have your bag delivered to you. Purchase discounted necessities with select  vendors. (edited) 
+
+#Development Enviorment Set up
 
 - [Installation Guide](#installation-guide) - How to get started with a new Node.js app
 - [User Guide](https://github.com/MLH/mlh-hackathon-nodejs-starter/blob/master/docs/USER_GUIDE.md) - How to develop apps created with this starter project
@@ -21,7 +23,7 @@ To get started, install NPM and Postgres on your local computer if you don't hav
 **Step 1. Clone the code into a fresh folder**
 
 ```
-$ git clone https://github.com/MLH/mlh-hackathon-nodejs-starter.git
+$ git clone https://github.com/darrendbutler/Vabranium-Team.git
 $ cd mlh-hackathon-nodejs-starter
 ```
 
@@ -74,13 +76,4 @@ You will see the build errors and warnings in the console.
 - [Bootstrap 4](https://getbootstrap.com/) - An open source design system for HTML, CSS, and JS.
 - [Handlebars](https://handlebarsjs.com/) - A popular templating language for building layouts.
 
-# Code of Conduct
 
-We enforce a Code of Conduct for all maintainers and contributors of this Guide. Read more in [CONDUCT.md][mlh-conduct].
-
-# License
-
-The Hackathon Starter Kit is open source software [licensed as MIT][mlh-license].
-
-[mlh-conduct]: https://github.com/MLH/mlh-hackathon-nodejs-starter/blob/master/docs/CONDUCT.md
-[mlh-license]: https://github.com/MLH/mlh-hackathon-nodejs-starter/blob/master/LICENSE.md
